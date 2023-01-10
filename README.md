@@ -1,4 +1,8 @@
 # Courses/Labs Management System
+### Introduction
+Web-based microservices application for the management of courses and laboratories. Functionalities: user registration, authentication mechanism, sending notifications via email and SMS, assessment of students, and uploading and downloading of courses/labs materials. 
+
+**Tech: C#, .Net Core, Swagger, Sql Server, Microsoft Azure Blob Storage**
 
 ### Project structure
 - The **clms** folder will contain all the project code
